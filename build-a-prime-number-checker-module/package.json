@@ -1,0 +1,17 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Verify if a number is prime.",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "ISC",
+  "author": "voidseeder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
